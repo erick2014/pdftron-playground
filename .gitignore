@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+public/lib/core
+public/lib/ui
 
 # production
 /build
